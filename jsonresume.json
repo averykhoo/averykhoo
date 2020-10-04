@@ -1,0 +1,182 @@
+{
+    "basics": {
+        "name": "Avery Khoo",
+        "label": "Data Scientist",
+        "picture": "",
+        "email": "averykhoo@gmail.com",
+        "phone": "",
+        "degree": "B.Eng in Computer Science",
+        "website": "",
+        "summary": "{summary}",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Singapore",
+            "countryCode": "SG",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "username": "averykhoo",
+                "url": "https://twitter.com/averykhoo",
+                "network": "twitter"
+            },
+            {
+                "url": "https://github.com/averykhoo",
+                "username": "averykhoo",
+                "network": "github"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "CSIT",
+            "position": "Data Scientist",
+            "website": "",
+            "startDate": "2015-11-01",
+            "endDate": "2014-01-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "company": "CSIT",
+            "position": "Data Scientist",
+            "website": "",
+            "startDate": "2015-11-01",
+            "endDate": "2015-11-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "{organization-name}",
+            "position": "{position}",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "{summary}",
+            "highlights": [
+                "{highlight-1}",
+                "{highlight-2}"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Singapore University of Technology and Design",
+            "area": "(Computer Science) Information Systems Technology and Design",
+            "studyType": "Bachelor of Engineering",
+            "startDate": "2012-05-01",
+            "endDate": "2015-08-12",
+            "gpa": "",
+            "courses": [
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "{award-name}",
+            "date": "1970-01-01",
+            "awarder": "{awarder-name}",
+            "summary": "{summary}"
+        }
+    ],
+    "publications": [
+        {
+            "name": "{publication-name",
+            "publisher": "{publisher}",
+            "releaseDate": "1970-01-01",
+            "website": "{website}",
+            "summary": "{summary}",
+            "isbn": "{isbn}"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data Science",
+            "level": "Senior",
+            "keywords": [
+                "Python",
+                "Jupyter",
+                "Pandas",
+                "FastAPI"
+            ]
+        },
+        {
+            "name": "Machine Learning",
+            "level": "Senior",
+            "keywords": [
+                "Natural Language Processing",
+                "Machine Translation"
+            ]
+        },
+        {
+            "name": "{name}",
+            "level": "{level}",
+            "keywords": [
+                "{keyword-1}",
+                "{keyword-2}"
+            ]
+        },
+        {
+            "name": "Web Dev",
+            "level": "Basic",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Python",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Java",
+            "fluency": "A bit rusty"
+        },
+        {
+            "language": "HTML/CSS/Javascript",
+            "fluency": "Basic"
+        }
+    ],
+    "interests": [
+        {
+            "name": "{interest-name}",
+            "keywords": [
+                "{keyword-1}",
+                "{keyword-2}"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "reference": "{statement-1}",
+            "name": "{referee}, {referee job title}"
+        },
+        {
+            "reference": "{statement-2}",
+            "name": "{referee}"
+        }
+    ],
+    "meta": {
+        "theme": "elegant"
+    }
+}
