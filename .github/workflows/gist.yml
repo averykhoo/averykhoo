@@ -1,0 +1,15 @@
+# src: https://github.com/thomasdavis/resume/blob/master/.github/workflows/gist.yml
+
+name: Update Resume Gist
+on: push
+jobs:
+  update-resume-gist:
+    runs-on: ubuntu-latest 
+    steps:
+    - uses: actions/checkout@v3
+    - name: Update Gist "resume.json"
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: 11c51e1308b5b973a3e33c10f6d8db28
+        file_path: resume.json
