@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Avery Khoo",
-        "label": "Data Scientist",
+        "label": "Senior Data Scientist",
         "picture": "",
         "email": "averykhoo@gmail.com",
         "phone": "",
@@ -29,35 +29,36 @@
             "position": "Data Scientist",
             "website": "",
             "startDate": "2015-11-01",
-            "endDate": "2014-01-01",
+            "endDate": "2017-12-31",
             "summary": "",
             "highlights": [
-                ""
+                "Machine Translation",
+                "Recommendation Systems"
             ]
         },
         {
             "company": "CSIT",
-            "position": "Data Scientist",
+            "position": "Senior Data Scientist",
             "website": "",
-            "startDate": "2015-11-01",
-            "endDate": "2015-11-01",
+            "startDate": "2018-01-01",
+            "endDate": "2020-12-31",
             "summary": "",
             "highlights": [
-                ""
+                "Machine Translation",
+                "Natural Language Processing",
+                "Cybersecurity"
             ]
-        }
-    ],
-    "volunteer": [
+        },
         {
-            "organization": "{organization-name}",
-            "position": "{position}",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "{summary}",
+            "company": "CSIT",
+            "position": "Senior Devops Engineer",
+            "website": "",
+            "startDate": "2021-01-01",
+            "summary": "",
             "highlights": [
-                "{highlight-1}",
-                "{highlight-2}"
+                "Kubernetes, Rancher, Container Images",
+                "Tracing, monitoring, health checks, alerting",
+                "Integrating Keycloak, LDAP, and JIRA workflows"
             ]
         }
     ],
@@ -68,9 +69,11 @@
             "studyType": "Bachelor of Engineering",
             "startDate": "2012-05-01",
             "endDate": "2015-08-12",
-            "gpa": "",
+            "gpa": "4.7",
             "courses": [
-                ""
+                "Machine Learning & Artificial Intelligence",
+                "Networking & Cybersecurity",
+                "Software Engineering"
             ]
         }
     ],
@@ -94,29 +97,40 @@
     ],
     "skills": [
         {
-            "name": "Data Science",
-            "level": "Senior",
+            "name": "Python",
+            "level": "Reasonably opinionated expert"
+        },
+        {
+            "name": "Data Analysis",
+            "level": "Experienced",
             "keywords": [
-                "Python",
                 "Jupyter",
                 "Pandas",
-                "FastAPI"
+                "Seaborn",
+                "Scikit-learn, xgboost for baselines",
+                "Excel when needed, but as little as possible"
             ]
         },
         {
             "name": "Machine Learning",
-            "level": "Senior",
+            "level": "Very familiar with the old-school kind of ML",
             "keywords": [
                 "Natural Language Processing",
-                "Machine Translation"
+                "Machine Translation",
+                "Bayes nets, Markov models, Gaussian mixtures, MLP, ..."
             ]
         },
         {
-            "name": "{name}",
-            "level": "{level}",
+            "name": "DevOps / DevSecOps",
+            "level": "Pretty good",
             "keywords": [
-                "{keyword-1}",
-                "{keyword-2}"
+                "YAML",
+                "K8s, Rancher",
+                "Gitlab CI",
+                "OAuth2, OIDC, JWTs, HTTP-only cookies, 2FA",
+                "Keycloak, Active Directory",
+                "Kong",
+                "Hazelcast, Memcached"
             ]
         },
         {
