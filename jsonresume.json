@@ -17,11 +17,6 @@
         },
         "profiles": [
             {
-                "username": "averykhoo",
-                "url": "https://twitter.com/averykhoo",
-                "network": "twitter"
-            },
-            {
                 "url": "https://github.com/averykhoo",
                 "username": "averykhoo",
                 "network": "github"
