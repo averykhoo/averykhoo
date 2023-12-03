@@ -85,16 +85,6 @@
             "summary": "{summary}"
         }
     ],
-    "publications": [
-        {
-            "name": "{publication-name",
-            "publisher": "{publisher}",
-            "releaseDate": "1970-01-01",
-            "website": "{website}",
-            "summary": "{summary}",
-            "isbn": "{isbn}"
-        }
-    ],
     "skills": [
         {
             "name": "Python",
@@ -150,15 +140,7 @@
         },
         {
             "language": "Python",
-            "fluency": "Fluent"
-        },
-        {
-            "language": "Java",
-            "fluency": "A bit rusty"
-        },
-        {
-            "language": "HTML/CSS/Javascript",
-            "fluency": "Basic"
+            "fluency": "Second language, fluent"
         }
     ],
     "interests": [
