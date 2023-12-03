@@ -7,7 +7,7 @@
         "phone": "",
         "degree": "B.Eng in Computer Science",
         "website": "",
-        "summary": "{summary}",
+        "summary": "I'm a data scientist, but I've also worked on devops platforms and infra. ",
         "location": {
             "address": "",
             "postalCode": "",
@@ -32,8 +32,8 @@
             "endDate": "2017-12-31",
             "summary": "",
             "highlights": [
-                "Machine Translation",
-                "Recommendation Systems"
+                "Statistical Machine Translation",
+                "Recommendation system for work prioritization"
             ]
         },
         {
@@ -44,9 +44,10 @@
             "endDate": "2020-12-31",
             "summary": "",
             "highlights": [
-                "Machine Translation",
+                "Machine Translation on GPUs",
+                "Frontend development and deployment for MT",
                 "Natural Language Processing",
-                "Cybersecurity"
+                "Anomaly detection for cybersecurity"
             ]
         },
         {
@@ -58,7 +59,9 @@
             "highlights": [
                 "Kubernetes, Rancher, Container Images",
                 "Tracing, monitoring, health checks, alerting",
-                "Integrating Keycloak, LDAP, and JIRA workflows"
+                "Building an API gateway with auth and management",
+                "Building fine-grained authorization",
+                "Using JIRA approval workflows for Keycloak and LDAP"
             ]
         }
     ],
@@ -88,17 +91,22 @@
     "skills": [
         {
             "name": "Python",
-            "level": "Reasonably opinionated expert"
+            "level": "Reasonably opinionated expert",
+            "keywords": [
+                "Python 2",
+                "Python 3"
+            ]
         },
         {
             "name": "Data Analysis",
             "level": "Experienced",
             "keywords": [
-                "Jupyter",
-                "Pandas",
-                "Seaborn",
-                "Scikit-learn, xgboost for baselines",
-                "Excel when needed, but as little as possible"
+                "Notebooks (e.g. Jupyter, IPython)",
+                "EDA (e.g. Pandas, DuckDB, or even using built-in csv)",
+                "Visualizations (e.g. Seaborn, Matplotlib, Plotly)",
+                "Baseline models (e.g. scikit-learn, xgboost)",
+                "Statistical Analysis (e.g. scipy, numpy, scikit-learn)",
+                "Microsoft Excel and Access as necessary"
             ]
         },
         {
@@ -107,7 +115,7 @@
             "keywords": [
                 "Natural Language Processing",
                 "Machine Translation",
-                "Bayes nets, Markov models, Gaussian mixtures, MLP, ..."
+                "Regression, classification, anomaly detection, recommendation, ..."
             ]
         },
         {
@@ -124,12 +132,11 @@
             ]
         },
         {
-            "name": "Web Dev",
-            "level": "Basic",
+            "name": "Frontend",
+            "level": "Minimal",
             "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
+                "HTML, CSS, Javascript, Bootstrap, and jQuery",
+                "Streamlit, FastAPI, Flask"
             ]
         }
     ],
