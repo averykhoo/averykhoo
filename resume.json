@@ -113,27 +113,39 @@
             "level": "8 years of experience",
             "keywords": [
                 "Notebooks (e.g. Jupyter, IPython)",
-                "Data crawling (e.g. SQL, web scraping, OCR, parsing weird custom internal binary formats)",
-                "EDA (e.g. Pandas, DuckDB, or even using built-in csv)",
+                "Data acquisition (e.g. SQL, web scraping, OCR, writing custom parsers for weird internal binary formats)",
+                "EDA (e.g. Pandas, DuckDB, Spark, or even using built-in csv)",
                 "Visualizations (e.g. Seaborn, Matplotlib, Plotly)",
                 "Baseline models (e.g. anything in scikit-learn, xgboost/etc, few-shot prompting for LLMs)",
                 "Statistical Analysis (e.g. scipy, numpy, scikit-learn)",
                 "Regular expressions, including the obscure bits",
                 "Microsoft Powerpoint, Word, Excel, and Access when necessary"
-
             ]
         },
         {
             "name": "DevOps / DevSecOps",
-            "level": "3 years of experience",
+            "level": "2 years of experience",
             "keywords": [
-                "",
-                "Docker, docker-compose, K8s, Rancher, YAML, kubectl",
-                "Gitlab CI, Terraform",
-                "OAuth2, OIDC, JWTs, HTTP-only cookies, 2FA, Envoy, OPA, Rego",
+                "Self-built configuration management tool",
+                "Dockerfiles, docker-compose, K8s and kubectl, Rancher, Helm",
+                "Terraform (mostly for Keycloak)",
+                "OAuth2, OIDC, JWTs, HTTP-only cookies, 2FA, OPA, Envoy, Rego",
                 "Keycloak, Active Directory",
-                "Kong",
-                "Hazelcast, Memcached"
+                "Kong, DecK, Konga, that one open-sourced OIDC plugin",
+                "Linux terminal, but mostly Bash"
+            ]
+        },
+        {
+            "name": "Software engineering",
+            "level": "2 years of experience",
+            "keywords": [
+                "Hazelcast, Memcached, Postgres, Oracle database, OpenSearch (ELK), Directus",
+                "OpenTelemetry instrumentation",
+                "Using Jira, Confluence, Mattermost",
+                "Setting up monitoring, health checks, and alerting",
+                "SAST, type checking for python",
+                "Flask, FastAPI, SQLAlchemy, SQLModel, Streamlit",
+                "Git, Gitlab CI"
             ]
         },
         {
@@ -141,11 +153,11 @@
             "level": "Couple years of experience due to unfortunate yet unavoidable circumstances",
             "keywords": [
                 "Networking (e.g. 40G QSFP, 10GBASE-T, VLANs, some knowledge of edge switches and core routers)",
-                "Power (e.g. PDUs, AC phases, earthing, power loading)",
+                "Power (e.g. PDUs, AC phases, earthing, power loading, CEE and IEC plugs)",
                 "Cooling (e.g. ASHRAE thermal guidelines, hot/cold zones, and airflow",
                 "Racking (e.g. standard rack sizes, capacities, lock types)",
                 "Installing the physical servers, wiring the servers, RMA-ing some servers 🙄",
-                "Setting up the servers (e.g. RAID on HBA controllers, networking, IPMI, VMWare)",
+                "Setting up the servers (e.g. RAID on HBA controllers, networking, IPMI, VMWare)"
             ]
         },
         {
@@ -163,8 +175,31 @@
             "fluency": "Native speaker"
         },
         {
-            "language": "Python",
-            "fluency": "Second language, fluent"
+            "language": "Python"
+        },
+        {
+            "language": "YAML"
+        },
+        {
+            "language": "JSON"
+        },
+        {
+            "language": "HCL (Terraform)"
+        },
+        {
+            "language": "Rego (OPA)"
+        },
+        {
+            "language": "Java"
+        },
+        {
+            "language": "Markdown"
+        },
+        {
+            "language": "Regular expressions"
+        },
+        {
+            "language": "HTML, CSS, JavaScript (and some jQuery)"
         }
     ],
     "interests": [
