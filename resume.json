@@ -91,44 +91,61 @@
     "skills": [
         {
             "name": "Python",
-            "level": "Reasonably opinionated expert",
+            "level": "11 years of experience",
             "keywords": [
-                "Python 2",
-                "Python 3"
-            ]
-        },
-        {
-            "name": "Data Analysis",
-            "level": "Experienced",
-            "keywords": [
-                "Notebooks (e.g. Jupyter, IPython)",
-                "EDA (e.g. Pandas, DuckDB, or even using built-in csv)",
-                "Visualizations (e.g. Seaborn, Matplotlib, Plotly)",
-                "Baseline models (e.g. scikit-learn, xgboost)",
-                "Statistical Analysis (e.g. scipy, numpy, scikit-learn)",
-                "Microsoft Excel and Access as necessary"
+                "Python 2 - usable",
+                "Python 3 - preferred"
             ]
         },
         {
             "name": "Machine Learning",
-            "level": "Very familiar with the old-school kind of ML",
+            "level": "9 years of experience",
             "keywords": [
                 "Natural Language Processing",
                 "Machine Translation",
-                "Regression, classification, anomaly detection, recommendation, ..."
+                "Regression, classification, anomaly detection, recommendation, ...",
+                "Model evaluation and interpretation",
+                ""
+            ]
+        },
+        {
+            "name": "Data Analysis",
+            "level": "8 years of experience",
+            "keywords": [
+                "Notebooks (e.g. Jupyter, IPython)",
+                "Data crawling (e.g. SQL, web scraping, OCR, parsing weird custom internal binary formats)",
+                "EDA (e.g. Pandas, DuckDB, or even using built-in csv)",
+                "Visualizations (e.g. Seaborn, Matplotlib, Plotly)",
+                "Baseline models (e.g. anything in scikit-learn, xgboost/etc, few-shot prompting for LLMs)",
+                "Statistical Analysis (e.g. scipy, numpy, scikit-learn)",
+                "Regular expressions, including the obscure bits",
+                "Microsoft Powerpoint, Word, Excel, and Access when necessary"
+
             ]
         },
         {
             "name": "DevOps / DevSecOps",
-            "level": "Pretty good",
+            "level": "3 years of experience",
             "keywords": [
-                "YAML",
-                "K8s, Rancher",
-                "Gitlab CI",
-                "OAuth2, OIDC, JWTs, HTTP-only cookies, 2FA",
+                "",
+                "Docker, docker-compose, K8s, Rancher, YAML, kubectl",
+                "Gitlab CI, Terraform",
+                "OAuth2, OIDC, JWTs, HTTP-only cookies, 2FA, Envoy, OPA, Rego",
                 "Keycloak, Active Directory",
                 "Kong",
                 "Hazelcast, Memcached"
+            ]
+        },
+        {
+            "name": "Infra",
+            "level": "Couple years of experience due to unfortunate yet unavoidable circumstances",
+            "keywords": [
+                "Networking (e.g. 40G QSFP, 10GBASE-T, VLANs, some knowledge of edge switches and core routers)",
+                "Power (e.g. PDUs, AC phases, earthing, power loading)",
+                "Cooling (e.g. ASHRAE thermal guidelines, hot/cold zones, and airflow",
+                "Racking (e.g. standard rack sizes, capacities, lock types)",
+                "Installing the physical servers, wiring the servers, RMA-ing some servers 🙄",
+                "Setting up the servers (e.g. RAID on HBA controllers, networking, IPMI, VMWare)",
             ]
         },
         {
